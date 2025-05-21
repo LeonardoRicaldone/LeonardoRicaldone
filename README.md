@@ -11,3 +11,12 @@ Sobre mí
 
 ### Estadísticas de GitHub
 ![](https://github-readme-stats.vercel.app/api?username=LeonardoRicaldone&show_icons=true&theme=radical)
+<a href="https://github.com/tunombredeusuario/proyecto1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tunombredeusuario&repo=proyecto1&theme=radical" />
+</a>
+<a href="https://github.com/tunombredeusuario/proyecto2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tunombredeusuario&repo=proyecto2&theme=radical" />
+</a>
+
+### Lenguajes Más Usados
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRicaldone&layout=compact&theme=radical)
