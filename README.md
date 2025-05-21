@@ -7,4 +7,5 @@ Sobre mí
 ⚡ Dato curioso: me gusta la carne asada
 
 ### Tecnologías y Herramientas
-https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a
+![]([https://example.com/path/to/image.png](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a))
+
