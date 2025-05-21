@@ -10,4 +10,4 @@ Sobre mí
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ### Estadísticas de GitHub
-![](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=LeonardoRicaldone&show_icons=true&theme=radical)
