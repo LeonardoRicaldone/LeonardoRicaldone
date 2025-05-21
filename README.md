@@ -27,8 +27,9 @@ Sobre mí
 ### Lenguajes Más Usados
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRicaldone&layout=compact&theme=radical)
 
-
+a
 ![](https://activity-graph.herokuapp.com/graph?username=LeonardoRicaldone&theme=react-dark)
+a
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LeonardoRicaldone&label=Visitas+del+Perfil&color=brightgreen" alt="Visitas del Perfil" />
